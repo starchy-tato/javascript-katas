@@ -38,6 +38,7 @@ console.log(instructorWithLongestName([
 
 // for in - looping over properties of an object
 //  vs for of is used for an array of objects
+// https://stackoverflow.com/questions/29285897/difference-between-for-in-and-for-of-statements
 student = {
   name: 'Bob',
   age: 88,
